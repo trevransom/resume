@@ -1,7 +1,10 @@
 ## About
+Web developer attentive to product data. Experienced in Python for data analysis, reporting and workflow automation to drive growth for an international manufacturing company. Seeking to use data analytical skills to improve corporate performance as a data analyst.
 
 ## Previous Projects
 [Fluke](https://www.fluke.com/en-us)
+- Wrote 70+ Python scripts, including a data migration script that reduced time overall from 24 hours/week to 2 hours/week, saving our team roughly 200 hours and the outsourcing of an expensive user testing process.
+
 
 ## Welcome to GitHub Pages
 
