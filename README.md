@@ -5,7 +5,7 @@ Web developer attentive to product data. Experienced in Python for data analysis
 [Fluke](https://www.fluke.com/en-us)
 - Wrote 70+ Python scripts, including a data migration script that reduced time overall from 24 hours/week to 2 hours/week, saving our team roughly 200 hours and the outsourcing of an expensive user testing process.
 
-
+<!---
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/trevransom/resume/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
@@ -34,4 +34,5 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/). 
+--->
