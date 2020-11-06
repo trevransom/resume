@@ -8,7 +8,7 @@ Web developer adept with product data. Competent in Python for data analysis, re
 
 [Example Script](https://github.com/trevransom/fluke-work-projects/blob/main/Product%20TOC%20Mismatch/discover_toc_mismatches.py)
 
-## [View my Resume](https://drive.google.com/file/d/1bms1Uaa3uOkpu0O8EeNcEBRdaEoeoAH4/view?usp=sharing)
+## [View my Resume](https://docs.google.com/document/d/1ZyVW965JwkC40bbtHjBCdcV-cA4E-5Bgoh98mz2qoRU/export?format=pdf)
 
 <!---
 ## Welcome to GitHub Pages
