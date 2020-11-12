@@ -9,7 +9,7 @@ Web developer adept with product data. Competent in Python for data analysis, re
 
 # Projects
 ## [Spotify ETL](https://github.com/trevransom/spotify_etl)
-- Created a Spotify ETL process to save recently played tracks from the Spotify API, wrote unit tests to ensure accuracy and then appended data into an SQLite database
+- Created a Spotify ETL process to save recently played tracks from the Spotify API, wrote unit tests to ensure data accuracy and then appended data into an SQLite database
 
 ## [View my Resume](https://docs.google.com/document/d/1uyTU-kSI7lRD_YngvTj-szbMDv3pmOYMJXLQD_e88Mk/export?format=pdf)
 
