@@ -5,8 +5,7 @@ Web developer adept with product data. Competent in Python for data analysis, re
 ## [Fluke](https://www.fluke.com/en-us)
 - Wrote 70+ Python scripts, including a data migration script that reduced time overall from 24 hours/week to 2 hours/week, saving our team roughly 200 hours and the outsourcing of an expensive user testing process.
 - Spearheaded the automation of data migration in 25 different spoken languages for hundreds of different products to a new web platform and verified data accuracy by comparing old/new sites using a web scraper and the Google translate API
-
-### [Example Script](https://github.com/trevransom/fluke-work-projects/blob/main/Product%20TOC%20Mismatch/discover_toc_mismatches.py)
+- ### [Example Script](https://github.com/trevransom/fluke-work-projects/blob/main/Product%20TOC%20Mismatch/discover_toc_mismatches.py)
 
 ## [View my Resume](https://docs.google.com/document/d/1uyTU-kSI7lRD_YngvTj-szbMDv3pmOYMJXLQD_e88Mk/export?format=pdf)
 
