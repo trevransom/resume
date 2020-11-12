@@ -9,7 +9,7 @@ Web developer adept with product data. Competent in Python for data analysis, re
 
 # Projects
 ## [Spotify ETL](https://github.com/trevransom/spotify_etl)
-- Created a Spotify ETL process to save recently played tracks from the Spotify API, wrote unit tests to ensure data accuracy and then appended data into an SQLite database
+- Created a Spotify ETL process wtih an Airflow DAG to save recently played tracks from the Spotify API, wrote unit tests to ensure data accuracy and then appended data into an SQLite database
 ## [Movie Review ETL](https://github.com/trevransom/de_project_1)
 - Set up an ETL pipeline to join 2 datasets in an AWS stack to then be used by analysts.
 - Technologies used include Pythnon, Redshift, EMR, S3, and Hadoop.
