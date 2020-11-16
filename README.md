@@ -15,6 +15,9 @@ Web developer adept with product data. Competent in Python for data analysis, re
 - Set up an ETL pipeline with an Airflow DAG to join 2 datasets in an AWS stack to then be used by analysts.
 - Technologies used include Pythnon, Redshift, EMR, S3, and Hadoop.
 
+## [Bees Dashboard](https://bees-python.herokuapp.com/)
+- Created and deployed a dashboard using Plotly that displays 4 years worth of information on the death of bee colonies
+
 ## [View my Resume](https://docs.google.com/document/d/1uyTU-kSI7lRD_YngvTj-szbMDv3pmOYMJXLQD_e88Mk/export?format=pdf)
 
 <!---
