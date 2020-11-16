@@ -17,6 +17,7 @@ Web developer adept with product data. Competent in Python for data analysis, re
 
 ## [Bees Dashboard](https://bees-python.herokuapp.com/)
 - Created and deployed a dashboard using Plotly that displays 4 years worth of information on the death of bee colonies
+- Data pulled from the US Department of Agriculture
 
 ## [View my Resume](https://docs.google.com/document/d/1uyTU-kSI7lRD_YngvTj-szbMDv3pmOYMJXLQD_e88Mk/export?format=pdf)
 
