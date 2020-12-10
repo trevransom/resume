@@ -1,5 +1,5 @@
 # About
-Web developer adept with product data. Competent in Python for data analysis, reporting and workflow automation to drive growth for an international manufacturing company. Seeking to use data analytical skills to improve corporate performance.
+Web developer adept with product data. Competent in Python for data engineering, analysis, reporting and workflow automation to drive growth for an international manufacturing company. Seeking to use data analytical skills to improve corporate performance.
 
 # Professional Experience
 ## [Fluke](https://www.fluke.com/en-us)
@@ -8,6 +8,9 @@ Web developer adept with product data. Competent in Python for data analysis, re
 - ### [Example Script](https://github.com/trevransom/fluke-work-projects/blob/main/Product%20TOC%20Mismatch/discover_toc_mismatches.py)
 
 # Projects
+## [Spotify ETL](https://github.com/trevransom/sparkify_etl)
+- Architected a Sparkify ETL process and Database schema to insert JSON logs into an easily accessible Postgres database for analytics querying
+
 ## [Spotify ETL](https://github.com/trevransom/spotify_etl)
 - Created a Spotify ETL process to save recently played tracks from the Spotify API, wrote unit tests to ensure data accuracy and then appended data into an SQLite database
 
