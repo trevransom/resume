@@ -8,7 +8,7 @@ Web developer adept with product data. Competent in Python for data engineering,
 - ### [Example Script](https://github.com/trevransom/fluke-work-projects/blob/main/Product%20TOC%20Mismatch/discover_toc_mismatches.py)
 
 # Projects
-## [Spotify ETL](https://github.com/trevransom/sparkify_etl)
+## [Sparkify ETL](https://github.com/trevransom/sparkify_etl)
 - Architected a Sparkify ETL process and Database schema to insert JSON logs into an easily accessible Postgres database for analytics querying
 
 ## [Spotify ETL](https://github.com/trevransom/spotify_etl)
