@@ -1,5 +1,5 @@
 # About
-Web developer adept with product data. Competent in Python for data engineering, analysis, reporting and workflow automation to drive growth for an international manufacturing company. Seeking to use data analytical skills to improve corporate performance.
+Web developer adept with product data. Competent in Python for data engineering, analysis, reporting and workflow automation to drive growth for an international manufacturing company. Seeking to use data engineering skills to improve corporate performance and grow professionally.
 
 # Professional Experience
 ## [Fluke](https://www.fluke.com/en-us)
